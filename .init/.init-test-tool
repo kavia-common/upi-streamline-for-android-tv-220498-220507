@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/upi-streamline-for-android-tv-220498-220507/upi_android_tv_frontend"
+}
